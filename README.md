@@ -14,4 +14,6 @@ About my other hobbies I also like:
 - Rock Music 🎵
 - Reading 📚
 
-<img src="https://raw.githubusercontent.com/xScripted/xScripted/main/html5.png" alt="drawing" width="200"/>
+### Technical Competences
+<img src="https://raw.githubusercontent.com/xScripted/xScripted/main/html5.png" alt="drawing" width="50"/>
+<img src="https://raw.githubusercontent.com/xScripted/xScripted/main/javascript.png" alt="drawing" width="50"/>
