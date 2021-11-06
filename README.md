@@ -15,5 +15,4 @@ About my other hobbies I also like:
 - Reading 📚
 
 ### Technical Competences
-<img src="https://raw.githubusercontent.com/xScripted/xScripted/main/html5.png" alt="drawing" width="50"/>
-<img src="https://raw.githubusercontent.com/xScripted/xScripted/main/javascript.png" alt="drawing" width="50"/>
+<img src="https://raw.githubusercontent.com/xScripted/xScripted/main/html5.png" alt="drawing" width="30"/><img src="https://raw.githubusercontent.com/xScripted/xScripted/main/javascript.png" alt="drawing" width="30"/>
