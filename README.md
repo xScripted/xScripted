@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I am Miquel Toran 👋 
 
-<!--
-**xScripted/xScripted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Fullstack developer from Barcelona. I describe myself as a non stop learner, my journey as a developer started on my teens where I discovered a unlimited way to create new things from nothing.
 
-Here are some ideas to get you started:
+Nowadays I enjoy developing and testing new frameworks and technologies, my favourite one is Vue!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About my other hobbies I also like:
+
+- Chess ♟
+- Piano 🎹
+- E-Sports 🎮
+- Draw 🎨
+- Japanese Culture 🏯
+- Rock Music 🎵
+- Reading 📚
